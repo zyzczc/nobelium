@@ -1,9 +1,9 @@
 const BLOG = {
   title: 'Let Go',
-  author: 'Le go',
+  author: 'Let go',
   email: '875515536@qq.com',
   link: 'https://zyzczc.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: '基于notion的博客系统。',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc

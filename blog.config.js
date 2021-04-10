@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Let Go',
+  title: '万象部落',
   author: 'Let go',
   email: '875515536@qq.com',
   link: 'https://zyzczc.vercel.app',
-  description: '基于notion的博客系统。',
+  description: '一个包罗万象的Blog。',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
@@ -13,7 +13,7 @@ const BLOG = {
   postsPerPage: 7,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://weibo.com/2254135800/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
